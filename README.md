@@ -10,6 +10,10 @@ user interests and market shifts.
 Skills Gained: Web scraping, natural language processing (NLP), sentiment
 analysis.
 * Tools: Python (BeautifulSoup, Tweepy, TextBlob), Power BI/Excel.
+![social  media sentiment first five row](https://github.com/user-attachments/assets/ad50f61d-f479-4911-a0f0-c0492a419dfd)
+![sentiment distribution platform](https://github.com/user-attachments/assets/2839c21b-ddce-4066-8fc4-a9a5eba48727)
+
+
 
 
 # [Project 2: Customer Support Data Analysis And Ticket Resolution](https://github.com/Oyindamola011/-FUTURE_DS_02-)
@@ -20,3 +24,5 @@ solutions to improve response time.
 * Tools: Excel, Python (Pandas, NLTK for text analysis).
 * Deliverable: A summary report on frequently reported problems and
 recommended process improvements.
+![monthly post trends](https://github.com/user-attachments/assets/0934bc4f-4b40-4c8f-80f9-339995f4f25a)
+![summary reports on customer's ticket](https://github.com/user-attachments/assets/68ac180d-063d-4fee-8c34-864640c7115c)
