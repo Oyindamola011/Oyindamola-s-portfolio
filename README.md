@@ -1,6 +1,5 @@
 # Oyindamola's Portfolio
 
-![IMG-20250311-WA0185] 
 # [Project 1: Social Media Trend Analysis](https://github.com/Oyindamola011/-Future_DS_01-)
 
 This is a project i did during my internship.
